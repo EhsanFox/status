@@ -26,8 +26,8 @@ status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ehsan.js.org/
-  baseUrl: /status
+  cname: ehsan.js.org/status
+  # baseUrl: /status
   logoUrl: https://cdn.discordapp.com/attachments/557343148011945984/976740250640588800/Untitled-pfp.png
   name: EhsanFox's Uptime Page
   introTitle: "**Ehsan's Uptime Page** - aka BoyCode"
