@@ -4,19 +4,19 @@
     "url": "https://ehsan.js.org",
     "icon": "https://ehsan.js.org/favicon.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 265,
-    "timeWeek": 202,
-    "timeMonth": 190,
+    "timeDay": 182,
+    "timeWeek": 189,
+    "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 21
     }
   }
 ]
