@@ -6,14 +6,14 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 189,
-    "timeWeek": 213,
-    "timeMonth": 194,
+    "timeDay": 174,
+    "timeWeek": 225,
+    "timeMonth": 191,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-02-06": 21
